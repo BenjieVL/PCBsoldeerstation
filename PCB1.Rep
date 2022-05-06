@@ -1,0 +1,166 @@
+Export log for : PCB1.Rep
+AddingPadStyle (Default)
+AddingPadStyle P:EX157Y157D1181
+AddingPadStyle P:EX77Y77D511
+AddingPadStyle P:EX45Y45D301
+AddingPadStyle P:SX45Y45D301
+AddingPadStyle EF55X38TOP1
+AddingPadStyle EF57X35TOP1
+AddingPadStyle P:EX83Y83D551
+AddingPadStyle P:SX47Y47D311
+AddingPadStyle P:EX47Y47D311
+AddingPadStyle P:EX41Y41D311
+AddingPadStyle P:SX41Y41D311
+AddingPadStyle P:EX76Y76D501
+AddingPadStyle P:SX76Y76D501
+AddingPadStyle P:EX52Y52D321
+AddingPadStyle P:SX52Y52D321
+AddingPadStyle P:SX43Y43D281
+AddingPadStyle P:EX43Y43D281
+AddingPadStyle P:EX75Y75D501
+AddingPadStyle P:EX47Y47D281
+AddingPadStyle P:EX59Y59D351
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle P:SX47Y47D312
+AddingPadStyle P:EX47Y47D312
+AddingPadStyle P:SX46Y46D301
+AddingPadStyle P:EX46Y46D301
+AddingPadStyle P:EX53Y53D331
+AddingPadStyle P:EX65Y65D431
+AddingPadStyle EF102X71TOP1
+AddingPadStyle P:EX62Y62D411
+AddingPadStyle P:SX62Y62D411
+AddingPadStyle P:EX59Y59D391
+AddingPadStyle P:SX59Y59D391
+AddingPadStyle P:SX93Y93D621
+AddingPadStyle P:EX93Y93D621
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX43Y43D241
+Adding TextStyle (Default)
+Adding TextStyle T:H60W10
+Adding TextStyle T:H50W8
+Adding TextStyle T:H60W101
+Adding PatternDef 691214110002_1
+Adding PatternDef CAPPRD200W55D500H1200_1
+Adding PatternDef CAPC2012X90N_1
+Adding PatternDef CAPC2012X90N_2
+Adding PatternDef CAPC2012X90N_3
+Adding PatternDef CAPC2012X90N_4
+Adding PatternDef RESC2012X60N_1
+Adding PatternDef RESC2012X60N_2
+Adding PatternDef RESC2012X60N_3
+Adding PatternDef RT42_1
+Adding PatternDef DIP778W43P254L2612H431Q20N_1
+Adding PatternDef ONSC-TO-92-3-29-11_1
+Adding PatternDef TO254P469X1042X1967-3P_1
+Adding PatternDef BC547CBU_1
+Adding PatternDef BC547CBU_2
+Adding PatternDef RESC2012X60N_4
+Adding PatternDef RESC2012X60N_5
+Adding PatternDef RESC2012X60N_6
+Adding PatternDef RESC2012X60N_7
+Adding PatternDef RESC2012X60N_8
+Adding PatternDef RESC2012X60N_9
+Adding PatternDef RESC2012X60N_10
+Adding PatternDef RESC2012X60N_11
+Adding PatternDef RESC2012X60N_12
+Adding PatternDef RESC2012X60N_13
+Adding PatternDef RESC2012X60N_14
+Adding PatternDef RESC2012X60N_15
+Adding PatternDef DIP1524W50P254L3750H820Q28N_1
+Adding PatternDef CM2545X171B10_1
+Adding PatternDef 744711003_1
+Adding PatternDef HDR2X3_1
+Adding PatternDef HDR1X3_1
+Adding PatternDef HDR1X5_1
+Adding PatternDef 691214110002_2
+Adding PatternDef HDR1X3_2
+Adding PatternDef HDR1X4_1
+Adding PatternDef HDR1X2_1
+Adding PatternDef HDR1X3_3
+Adding PatternDef 691214110002_3
+Adding PatternDef 691214110002_4
+Adding PatternDef DIP1543W58P254L5175H635Q40N_1
+Adding PatternDef DIP781W56P254L950H533Q8N_1
+Adding PatternDef TSR-2_1
+Adding PatternDef 482016514001_1
+Adding PatternDef DIOAD1165W56L425D185_1
+Adding PatternDef DIOAD1068W53L380D172_1
+Adding PatternDef DIOAD1410W86L470D235_1
+Adding PatternDef CAPC2012X90N_5
+Adding PatternDef CAPC2012X90N_6
+Adding PatternDef CAPC2012X90N_7
+Adding PatternDef CAPPRD200W52D500H1250_1
+Adding PatternDef CAPC2012X90N_8
+Adding PatternDef CAPC2012X90N_9
+Adding PatternDef CAPC2012X90N_10
+Adding PatternDef CAPPRD200W52D500H1250_2
+Adding PatternDef CAPPRD200W55D500H1200_2
+Adding PatternDef CAPPRD200W52D500H1250_3
+Adding PatternDef CAPPRD1000W80D2200H4100_1
+Adding PatternDef GBU6J_1
+Adding PatternDef GBU6J_2
+Adding PatternDef BC547CBU_3
+Adding CompDef 691214110002_1
+Adding CompDef CAPPRD200W55D500H1200_1
+Adding CompDef CAPC2012X90N_1
+Adding CompDef CAPC2012X90N_2
+Adding CompDef CAPC2012X90N_3
+Adding CompDef CAPC2012X90N_4
+Adding CompDef RESC2012X60N_1
+Adding CompDef RESC2012X60N_2
+Adding CompDef RESC2012X60N_3
+Adding CompDef RT42_1
+Adding CompDef DIP778W43P254L2612H431Q20N_1
+Adding CompDef ONSC-TO-92-3-29-11_1
+Adding CompDef TO254P469X1042X1967-3P_1
+Adding CompDef BC547CBU_1
+Adding CompDef BC547CBU_2
+Adding CompDef RESC2012X60N_4
+Adding CompDef RESC2012X60N_5
+Adding CompDef RESC2012X60N_6
+Adding CompDef RESC2012X60N_7
+Adding CompDef RESC2012X60N_8
+Adding CompDef RESC2012X60N_9
+Adding CompDef RESC2012X60N_10
+Adding CompDef RESC2012X60N_11
+Adding CompDef RESC2012X60N_12
+Adding CompDef RESC2012X60N_13
+Adding CompDef RESC2012X60N_14
+Adding CompDef RESC2012X60N_15
+Adding CompDef DIP1524W50P254L3750H820Q28N_1
+Adding CompDef CM2545X171B10_1
+Adding CompDef 744711003_1
+Adding CompDef HDR2X3_1
+Adding CompDef HDR1X3_1
+Adding CompDef HDR1X5_1
+Adding CompDef 691214110002_2
+Adding CompDef HDR1X3_2
+Adding CompDef HDR1X4_1
+Adding CompDef HDR1X2_1
+Adding CompDef HDR1X3_3
+Adding CompDef 691214110002_3
+Adding CompDef 691214110002_4
+Adding CompDef DIP1543W58P254L5175H635Q40N_1
+Adding CompDef DIP781W56P254L950H533Q8N_1
+Adding CompDef TSR-2_1
+Adding CompDef 482016514001_1
+Adding CompDef DIOAD1165W56L425D185_1
+Adding CompDef DIOAD1068W53L380D172_1
+Adding CompDef DIOAD1410W86L470D235_1
+Adding CompDef CAPC2012X90N_5
+Adding CompDef CAPC2012X90N_6
+Adding CompDef CAPC2012X90N_7
+Adding CompDef CAPPRD200W52D500H1250_1
+Adding CompDef CAPC2012X90N_8
+Adding CompDef CAPC2012X90N_9
+Adding CompDef CAPC2012X90N_10
+Adding CompDef CAPPRD200W52D500H1250_2
+Adding CompDef CAPPRD200W55D500H1200_2
+Adding CompDef CAPPRD200W52D500H1250_3
+Adding CompDef CAPPRD1000W80D2200H4100_1
+Adding CompDef GBU6J_1
+Adding CompDef GBU6J_2
+Adding CompDef BC547CBU_3
+ 
+EndLog

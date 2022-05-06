@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=display.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=display.SchDoc|FileName=main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=display.SchDoc|FileName=opamps.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=display.SchDoc|FileName=voeding.SchDoc|SheetNumber=4

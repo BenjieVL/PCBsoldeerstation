@@ -1,0 +1,131 @@
+Protel Design System Design Rule Check
+PCB File : C:\Altium_PCB\soldeerstation\PCBv4.PcbDoc
+Date     : 3/05/2022
+Time     : 11:18:56
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('NONET_L02_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('GND_L02_P002')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=984.252mil) (InNamedPolygon('NONET_L02_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=984.252mil) (InNamedPolygon('NONET_L02_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('GND_L02_P002')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('GND_L01_P004')),(All)
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (1 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (1 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (1 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (1 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (1 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (3 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (41 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (9 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (9 hole(s)) Top Layer 
+Rule Violations :13
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('GND_L02_P002')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('GND_L02_P003')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('GND_L02_P003')),(All)
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (1 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (1 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (2 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (3 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 15mil) Polygon Region (61 hole(s)) Bottom Layer 
+Rule Violations :30
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=50mil) (Max=50mil) (Preferred=50mil) (InNet('VIN'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (137.795mil > 100mil) Pad Free-1(118.11mil,118.11mil) on Multi-Layer Actual Hole Size = 137.795mil
+   Violation between Hole Size Constraint: (137.795mil > 100mil) Pad Free-1(118.11mil,3740.158mil) on Multi-Layer Actual Hole Size = 137.795mil
+   Violation between Hole Size Constraint: (137.795mil > 100mil) Pad Free-1(4212.598mil,118.11mil) on Multi-Layer Actual Hole Size = 137.795mil
+   Violation between Hole Size Constraint: (137.795mil > 100mil) Pad Free-1(4212.598mil,3740.158mil) on Multi-Layer Actual Hole Size = 137.795mil
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.709mil < 10mil) Between Pad R5-2(4015.748mil,382.284mil) on Top Layer And Via (4068mil,382.284mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.709mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.957mil < 10mil) Between Pad T1-1(3088.976mil,2514.686mil) on Multi-Layer And Pad T1-2(3138.976mil,2572.836mil) on Multi-Layer [Top Solder] Mask Sliver [3.957mil] / [Bottom Solder] Mask Sliver [3.957mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.957mil < 10mil) Between Pad T2-1(569.292mil,3498.938mil) on Multi-Layer And Pad T2-2(619.292mil,3557.088mil) on Multi-Layer [Top Solder] Mask Sliver [3.957mil] / [Bottom Solder] Mask Sliver [3.957mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.957mil < 10mil) Between Pad T4-1(1540.434mil,3561.418mil) on Multi-Layer And Pad T4-2(1482.284mil,3611.418mil) on Multi-Layer [Top Solder] Mask Sliver [3.957mil] / [Bottom Solder] Mask Sliver [3.957mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.661mil < 10mil) Between Pad T5-1(844.882mil,3622.046mil) on Multi-Layer And Pad T5-2(894.882mil,3622.046mil) on Multi-Layer [Top Solder] Mask Sliver [0.661mil] / [Bottom Solder] Mask Sliver [0.661mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.661mil < 10mil) Between Pad T5-2(894.882mil,3622.046mil) on Multi-Layer And Pad T5-3(944.882mil,3622.046mil) on Multi-Layer [Top Solder] Mask Sliver [0.661mil] / [Bottom Solder] Mask Sliver [0.661mil]
+Rule Violations :6
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad IC3-27(1062.992mil,771.654mil) on Multi-Layer And Text "K11" (1067.974mil,706.702mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+Rule Violations :1
+
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (2.062mil < 5mil) Between Text "5" (1397.953mil,926.141mil) on Top Overlay And Track (1227.952mil,916.142mil)(1427.952mil,916.142mil) on Top Overlay Silk Text to Silk Clearance [2.062mil]
+   Violation between Silk To Silk Clearance Constraint: (2.062mil < 5mil) Between Text "6" (1297.953mil,926.141mil) on Top Overlay And Track (1227.952mil,916.142mil)(1427.952mil,916.142mil) on Top Overlay Silk Text to Silk Clearance [2.062mil]
+Rule Violations :2
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=2000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 56
+Waived Violations : 0
+Time Elapsed        : 00:00:01
